@@ -1,0 +1,20 @@
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+var pageUrl  = '{{site.baseurl}}/{{page.url}}';
+var pageId   = '{{page.id}}';
+
+var disqus_config = function () {
+this.page.url = pageUrl; 
+this.page.identifier = pageId; 
+};
+
+//not editable
+(function() { 
+
+var d = document, s = d.createElement('script');
+s.src = '//marceloeverson.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>

@@ -1,0 +1,19 @@
+{
+  "name": "blog-everson",
+  "authors": [
+    "marceloeverson <ewan.rpg@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
