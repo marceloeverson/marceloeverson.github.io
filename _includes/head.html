@@ -8,7 +8,7 @@
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   {% if site.GH_ENV == 'gh_pages' %}
-  <link rel="stylesheet" href="site.cdn.bootstrap_css">
+  <link rel="stylesheet" href="{{site.cdn.bootstrap_css}}">
   {% else %}
   <link rel="stylesheet" href="{{ site.component.bootstrap_css | prepend: site.baseurl }}">
   {% endif %}  
