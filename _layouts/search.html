@@ -13,12 +13,16 @@ layout: default
         <div class="row">
             <div class="col-lg-12">  
                <div class="col-lg-3">
+               <a href="{$result.url}">
                  <div class="bg-cat bg-{$result.categories[1]}">
                   {$result.categories[1]}
                  </div>
+                </a>
                </div>    
-               <div class="col-lg-9">          
+               <div class="col-lg-9">
+               <a href="{$result.url}">          
                 <h3>{$result.title}</h3>
+                </a>
                 <span class="post-meta">
                  Publicado em {$result.date}
                 </span><br>
@@ -29,9 +33,7 @@ layout: default
                 {/section}               
                 
                 <p>{$result.description}</p>                
-                <p><a  class="btn btn-info" 
-                href="/{$result.categories[0]}/{$result.categories[1]}/{$result.url}">
-                Continue lendo</a></p>
+                
                 </div>
             </div>
 
