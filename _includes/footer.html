@@ -34,6 +34,13 @@
 
 </footer>
 
+{% if site.GH_ENV == 'gh_pages' %}
+<link rel="stylesheet" type="text/css" href="{{site.cdn.font_awesome}}">
+<script src="{{site.cdn.lunr}}" type="text/javascript"></script>
+<script src="{{site.cdn.jquery}}" type="text/javascript"></script>
+<script src="{{site.cdn.bootstrap_js}}" type="text/javascript"></script>
+{% else %}
+
 <link rel="stylesheet" type="text/css" 
 href="{{ "/components/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 
@@ -45,6 +52,8 @@ type="text/javascript"></script>
 
 <script src="{{ "/components/bootstrap/dist/js/bootstrap.min.js" | prepend: site.baseurl }}" 
 type="text/javascript"></script>
+
+{% endif %}
 
 <script src="{{ "/components/jsmart/smart.min.js" | prepend: site.baseurl }}" 
 type="text/javascript"></script>
