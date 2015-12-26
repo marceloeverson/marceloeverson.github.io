@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div id="search-content"></div>
+<div class="hide" id="error-404">
+  {% include 404.html %}
+</div>
 
 <script id="search-tpl" type="text/x-jsmart-tmpl">
 
@@ -44,4 +47,8 @@ layout: default
       No books
 {/foreach}
 
+</script>
+
+<script type="text/javascript">
+ var page = '{{page.path|remove:'.html'}}';
 </script>
