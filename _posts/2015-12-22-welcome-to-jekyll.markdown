@@ -3,9 +3,11 @@ layout: post
 title:  Welcome to Jekyll!
 date:   2015-12-22 11:44:36 -0200
 url: jekyll/welcome-to-jekyll
+tags: jekyll create
 id: 2015/12/22/jekyll/welcome-to-jekyll
-description: hello
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse leo nisi, tincidunt vel quam et, venenatis consectetur turpis. Donec sed convallis felis. Suspendisse potenti. Morbi tempus nisi a purus rutrum, eget faucibus tortor varius. Etiam iaculis, est ut pharetra accumsan, leo augue dapibus enim, et sagittis diam eros non dui. Cras imperdiet aliquam facilisis. Nam viverra tellus ac nisl finibus, ut tristique nulla finibus. Aenean dignissim nunc ac velit venenatis ullamcorper. Nunc lacinia convallis blandit. Aliquam placerat tempor facilisis. Nunc a magna at purus dictum gravida."
 categories: jekyll
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
