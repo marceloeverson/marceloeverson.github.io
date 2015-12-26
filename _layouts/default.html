@@ -4,7 +4,9 @@
   {% include head.html %}
 
   <body>
-    {{site.baseurl}}
+    {% if site.GH_ENV == 'gh_pages' %}
+  gh-pages ok
+{% endif %}
     {% include header.html %}
 
     <div id="ww">
