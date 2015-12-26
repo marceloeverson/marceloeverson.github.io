@@ -2,7 +2,7 @@
 layout: post
 title: Eventos com jquery
 date: 2015-12-22 19:58:30 2015
-url: eventos-com-jquery
+
 categories: biblioteca  jquery
 tags: 
   - jquery

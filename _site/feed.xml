@@ -6,8 +6,8 @@
 </description>
     <link>http://marceloeverson.github.io/</link>
     <atom:link href="http://marceloeverson.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Dec 2015 12:18:15 -0200</pubDate>
-    <lastBuildDate>Sat, 26 Dec 2015 12:18:15 -0200</lastBuildDate>
+    <pubDate>Sat, 26 Dec 2015 13:46:19 -0200</pubDate>
+    <lastBuildDate>Sat, 26 Dec 2015 13:46:19 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>
 </description>
         <pubDate>Tue, 22 Dec 2015 20:01:35 -0200</pubDate>
-        <link>http://marceloeverson.github.iorelacionamento-sql</link>
-        <guid isPermaLink="true">http://marceloeverson.github.iorelacionamento-sql</guid>
+        <link>http://marceloeverson.github.io/linguagem/sql/relacionamento-sql.html</link>
+        <guid isPermaLink="true">http://marceloeverson.github.io/linguagem/sql/relacionamento-sql.html</guid>
         
         <category>sql</category>
         
@@ -32,8 +32,8 @@
         <description>
 </description>
         <pubDate>Tue, 22 Dec 2015 19:58:30 -0200</pubDate>
-        <link>http://marceloeverson.github.ioeventos-com-jquery</link>
-        <guid isPermaLink="true">http://marceloeverson.github.ioeventos-com-jquery</guid>
+        <link>http://marceloeverson.github.io/biblioteca/jquery/eventos-com-jquery.html</link>
+        <guid isPermaLink="true">http://marceloeverson.github.io/biblioteca/jquery/eventos-com-jquery.html</guid>
         
         <category>jquery</category>
         
@@ -53,8 +53,8 @@
         <description>&lt;p&gt;Hello&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Dec 2015 18:16:43 -0200</pubDate>
-        <link>http://marceloeverson.github.iocriando-arrays-com-php</link>
-        <guid isPermaLink="true">http://marceloeverson.github.iocriando-arrays-com-php</guid>
+        <link>http://marceloeverson.github.io/linguagem/php/criando-arrays-com-php.html</link>
+        <guid isPermaLink="true">http://marceloeverson.github.io/linguagem/php/criando-arrays-com-php.html</guid>
         
         <category>php</category>
         

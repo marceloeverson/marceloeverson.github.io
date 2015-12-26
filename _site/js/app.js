@@ -1,6 +1,17 @@
 var query = '';
+function isRoute(name)
+{
+  return uriToArr()[0]== name;
+}
 
 jQuery(function(){
+
+ if(!isRoute('search') && !isRoute('category') && !isRoute('tag')
+  && page == '404'){
+  
+  $('#error-404').removeClass('hide');
+
+ }else{
 
   if(location.pathname == '/search'){
       
@@ -36,6 +47,7 @@ jQuery(function(){
     query = path.join(' ');
     search();
   }
+}
 
 $('body').on('dataLoaded',function(){
     

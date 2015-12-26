@@ -2,7 +2,6 @@
 layout: post
 title: Relacionamento sql
 date: 2015-12-22 20:01:35 2015
-url: relacionamento-sql
 categories: linguagem sql
 tags: 
   - sql

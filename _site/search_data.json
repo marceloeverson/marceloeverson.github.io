@@ -1,9 +1,9 @@
 {
   
 
-    "relacionamento-sql": {
+    "linguagem-sql-relacionamento-sql-html": {
       "title": "Relacionamento sql",
-      "url": " relacionamento-sql",
+      "url": " /linguagem/sql/relacionamento-sql.html",
       "date" : "22/12/2015",
       "author": "",
       "tags"  : "[&quot;sql&quot;]",
@@ -14,9 +14,9 @@
     ,
   
 
-    "eventos-com-jquery": {
+    "biblioteca-jquery-eventos-com-jquery-html": {
       "title": "Eventos com jquery",
-      "url": " eventos-com-jquery",
+      "url": " /biblioteca/jquery/eventos-com-jquery.html",
       "date" : "22/12/2015",
       "author": "",
       "tags"  : "[&quot;jquery&quot;, &quot;js&quot;, &quot;eventos&quot;]",
@@ -27,9 +27,9 @@
     ,
   
 
-    "criando-arrays-com-php": {
+    "linguagem-php-criando-arrays-com-php-html": {
       "title": "Criando arrays com php",
-      "url": " criando-arrays-com-php",
+      "url": " /linguagem/php/criando-arrays-com-php.html",
       "date" : "22/12/2015",
       "author": "",
       "tags"  : "[&quot;php&quot;, &quot;array&quot;]",
